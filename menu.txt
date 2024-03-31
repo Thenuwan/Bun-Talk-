@@ -1,0 +1,6 @@
+Muffins 1.99
+Bread 2.90
+Samosas 1.22
+Cakes 1.45
+coffe 3.00
+
